@@ -1,6 +1,6 @@
 # Gender Classifier using Keras
 
-This is my Gender Classifier code using Keras and applying Transfer Learning with VGG16.
+Gender Classifier using Keras and applying Transfer Learning with VGG16.
 
 Link to the VGG16 weights with no top layer
 
